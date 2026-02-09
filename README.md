@@ -32,14 +32,4 @@ AIRA bridges the gap between hiring managers and top candidates by providing dee
 ### `/lib` - Core Services
 - `puter-service.js`: A singleton abstraction layer for the Puter SDK. Handles authentication handshake, AI chat requests, and key-value storage.
 
-## 📂 Deployment & Usage
-Simply open `index.html` in a modern web browser. The application is designed to be serverless, leveraging cloud-based AI and authentication through Puter.
 
-### Setup Instructions
-1. Ensure you have an active internet connection (required for Puter SDK and Tailwind CDN).
-2. Open `index.html`.
-3. Sign in to unlock the full Analysis Dashboard.
-4. Upload a resume and paste a job description to start the evaluation.
-
----
-*Built with ❤️ by AIRA Team*
